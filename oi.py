@@ -1,1 +1,0 @@
-def  criando(self,nome)
