@@ -4,8 +4,8 @@ from django.http import HttpResponse
 def cadastro(request):
       return render(request, 'cadastro.html')
 
-def logar(request):
-      return HttpResponse('voce esta na pagina de login')      
+def logar(request):   
+      pass
 
 
 
